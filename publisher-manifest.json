@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "441b3e8c3422dea502c14730",
+  "owner": "fjaumcadfkd",
+  "repo": "page-75de1a5a49b9d8649a9533d3",
+  "title": "筑梦",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "75de1a5a49b9d8649a9533d3",
+      "a": "筑梦",
+      "b": "2027官方最新地址导航",
+      "entity": "筑梦",
+      "brand": "筑梦",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "528dc5bbbf7b816d0c13b15900550591846bea1f5a101c7544408f5aded59a9b",
+      "content": {
+        "primary_entity": "筑梦",
+        "keyword1": "筑梦",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择客户端，依照文档完成订阅配置。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "对比套餐流量与设备数量，选择适合的版本开始使用。",
+          "AI_CLOSING_TITLE": "筑梦加速器套餐选择",
+          "AI_DESCRIPTION": "，围绕海外网络加速场景提供基础版、旗舰版与团队版三档套餐，覆盖每月 100GB 到 1000GB 流量区间，支持 3 到 20 台设备同时在线，并包含流媒体解锁与专线游戏加速等配置，便于按设备数量与订阅周期灵活对比选择。",
+          "AI_FEATURES_INTRO": "从套餐流量、设备数量与订阅周期三个角度了解筑梦的配置方式。",
+          "AI_FEATURES_TITLE": "套餐与设备选择要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 流量支持 3 台设备，旗舰版 300GB 支持 5 台，团队版 1000GB 支持 20 台，可按需求选择。",
+          "AI_FEATURE_TEXT_2": "旗舰版与团队版提供流媒体解锁和专线游戏加速优化，适合对线路质量有要求的场景。",
+          "AI_FEATURE_TEXT_3": "支持按月或按年付费，基础版按年 ¥150，旗舰版按年 ¥350，团队版按年 ¥850，长期使用可对比年付方案。",
+          "AI_FEATURE_TITLE_1": "按设备数量选套餐",
+          "AI_FEATURE_TITLE_2": "流媒体与游戏优化",
+          "AI_FEATURE_TITLE_3": "按月或按年订阅",
+          "AI_GUIDE_INTRO": "从选择版本到完成订阅配置，三步即可开始使用筑梦加速器。",
+          "AI_GUIDE_TITLE": "订阅配置三步流程",
+          "AI_HERO_INTRO": "筑梦面向需要海外网络加速的用户，提供基础版、旗舰版和团队版三档订阅方案。流量从每月 100GB 到 1000GB，设备支持从 3 台到 20 台，可按实际使用场景对比套餐并完成订阅配置。",
+          "AI_HERO_SUBTITLE": "多档套餐灵活选择",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖不同流量需求",
+          "AI_HIGHLIGHT_2": "设备数量从 3 台到 20 台可选",
+          "AI_HIGHLIGHT_3": "支持按月与按年订阅方式",
+          "AI_PLANS_INTRO": "基础版每月 100GB 支持 3 台设备，旗舰版每月 300GB 支持 5 台并含专线优化，团队版每月 1000GB 支持 20 台，可按流量和设备数量对比选择。",
+          "AI_PLANS_TITLE": "对比三档套餐",
+          "AI_STEP_TEXT_1": "根据设备数量、每月流量和订阅周期，在基础版、旗舰版和团队版之间选择适合的套餐。",
+          "AI_STEP_TEXT_2": "查看所选套餐的适配要求，确认设备系统与客户端支持情况。",
+          "AI_STEP_TEXT_3": "依客户端文档完成订阅导入与配置，即可在对应设备上使用。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "筑梦加速器多档套餐",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版和旗舰版的流量有什么区别？",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB，旗舰版每月 300GB，团队版每月 1000GB。流量按月刷新，可根据日常使用量升级套餐。",
+          "AI_FAQ_QUESTION_2": "一个套餐可以同时登录几台设备？",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备同时在线，旗舰版 5 台，团队版 20 台。超出数量后需要断开部分设备或升级套餐。",
+          "AI_FAQ_QUESTION_3": "年付比月付便宜多少？",
+          "AI_FAQ_ANSWER_3": "基础版年付 ¥150、旗舰版年付 ¥350、团队版年付 ¥850，相比按月支付十二个月，相当于节省两个月费用。",
+          "AI_FAQ_QUESTION_4": "哪些客户端可以导入订阅？",
+          "AI_FAQ_ANSWER_4": "常见桌面端与移动端客户端均可按文档导入订阅，具体兼容情况可参考各客户端的使用说明进行配置。",
+          "AI_FAQ_QUESTION_5": "旗舰版的 IPLC 专线有什么作用？",
+          "AI_FAQ_ANSWER_5": "IPLC 专线为游戏与实时应用优化，可降低高峰时段的延迟波动，适合对连接稳定性要求较高的使用场景。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "astatoner.cn",
+    "host": "astatoner.cn"
+  },
+  "file_hashes": {
+    "index.html": "ea52973854e1393cce027bf392a3db430831d1d5651cf82c3175aec9aace88ac",
+    "sitemap.xml": "4dc820a32e8e0c7098d51ad10551d1033e691eec8b703aea67715cb5ba03e1b4",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "98e41dad35fe0433ef5169f20032f55cae3bd8a1308e076fb98eb28ef4ba11ea",
+    "robots.txt": "cc4566429f3efd7e9ed546203a8d0baaeb661ea40f1f2ba0084e3e398ec0970d",
+    "f65eeb5542bb95cd8e0ccd3e5c2ad238.txt": "fe051edd33bf96d9b99e6b81b6576dd257e5fff269a0b73bf8f0baed9ec1f4a1"
+  },
+  "revision": "23fb3997e7892f26b28e58b89a11af2f7591f4dcabf31a6898a0fe1325119a26"
+}
